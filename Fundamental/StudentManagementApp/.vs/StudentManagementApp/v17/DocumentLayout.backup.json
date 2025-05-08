@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|c:\\users\\dell\\source\\repos\\fundamental\\studentmanagementapp\\studentmanagementapp\\studentenrollmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\studentenrollmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\studentmanagementapp\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\StudentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentEnrollmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\StudentEnrollmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\studentmanagementapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\InstructorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\InstructorsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\studentmanagementapp\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\instructorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\DepartmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\DepartmentsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\studentmanagementapp\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\departmentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\CoursesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:StudentManagementApp\\CoursesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\studentmanagementapp\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{825A08A7-B0E0-4D0F-B2A3-F053F0236E9F}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\coursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\StudentsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentsForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\StudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:07:39.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\StudentsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentsForm.cs",
+              "RelativeToolTip": "StudentManagementApp\\StudentsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:02:48.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Program.cs",
+              "RelativeToolTip": "StudentManagementApp\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:50:54.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\MainForm.cs",
+              "RelativeToolTip": "StudentManagementApp\\MainForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:28:27.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentEnrollmentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentEnrollmentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\StudentEnrollmentsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentEnrollmentsForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\StudentEnrollmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:41:41.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentEnrollmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentEnrollmentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\StudentEnrollmentsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\StudentEnrollmentsForm.cs",
+              "RelativeToolTip": "StudentManagementApp\\StudentEnrollmentsForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:42:03.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:02:06.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Login.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Login.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Login.cs",
+              "RelativeToolTip": "StudentManagementApp\\Login.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:49:30.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Login.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Login.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\Login.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:43:46.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstructorsForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\InstructorsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\InstructorsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\InstructorsForm.cs",
+              "RelativeToolTip": "StudentManagementApp\\InstructorsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:21:08.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstructorsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\InstructorsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\InstructorsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\InstructorsForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\InstructorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:19:08.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentsForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\DepartmentsForm.cs",
+              "RelativeToolTip": "StudentManagementApp\\DepartmentsForm.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:34:58.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\DepartmentsForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\DepartmentsForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\DepartmentsForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\DepartmentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:33:07.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoursesForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\CoursesForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\CoursesForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\CoursesForm.cs",
+              "RelativeToolTip": "StudentManagementApp\\CoursesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:10:56.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoursesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\CoursesForm.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\CoursesForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Fundamental\\StudentManagementApp\\StudentManagementApp\\CoursesForm.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\CoursesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:08:49.339Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

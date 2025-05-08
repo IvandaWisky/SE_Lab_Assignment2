@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.Up2Date
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\DELL\source\repos\Fundamental\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
